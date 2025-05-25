@@ -22,6 +22,7 @@ Simple and interactive UI with Streamlit
 Real-time predictions from SageMaker Canvas endpoint
 AWS best practices: endpoint invocation without exposing credentials
 📷 Visual example of the UI below!
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/e0e2d62b-c3af-47dc-92ed-3050b736327b" />
 
 
 
